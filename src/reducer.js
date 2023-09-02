@@ -4,6 +4,9 @@ export const initialState = {
     playing: false,
     item: null,
 
+    // usestate = (state, setstate) => component
+    // usereducer - reux = state, useselector, => tree
+
     // remove after finishing  development
     // token: "BQBrQPTdKP-Ud7icu0kt4p3YuWeBvH7iw1NmsJTDLmwHrcOdgU1OyjcHPz7ggSMyXz-rX7nu4uw5N9BYrpQZOVs0jvbQ93AziF6lnk9bbNH2C86ZuCLHyl2awU4ZC9X7Y3ws9lF3q0GptaSVIYtdaAIOqs9b739zHP9ePIyZTGXv4oH1TrbCJJD27VE4XAms-LJN0WrBcxSM32lt",
 };

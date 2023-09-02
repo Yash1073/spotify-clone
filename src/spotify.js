@@ -1,6 +1,6 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "/";
+const redirectUri = "https://whimsicalplaylist.vercel.app/";
 
 const clientId = "cff76213089a4e228206c8bf120d67cb";
 const scopes = [
